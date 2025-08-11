@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ire Hurtado  
+# 👋 ¡Hola! Soy Irene Hurtado  
 
 💻 **Desarrolladora Web Full Stack** con pasión por la **IA aplicada** y la **innovación tecnológica**.  
 🚀 Actualmente trabajando en proyectos que combinan **Django**, **React** y **OpenAI**.  
