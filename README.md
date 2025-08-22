@@ -66,4 +66,15 @@
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/IreHurtado">
-    <img src="ht
+    <img src="https://img.shields.io/badge/💻%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+✨ _"La tecnología es la herramienta, la creatividad es el motor."_  
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+</div>
