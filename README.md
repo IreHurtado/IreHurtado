@@ -39,6 +39,7 @@
 
 ## 📌 Últimos proyectos
 
+- **[RAG FastAPI](https://github.com/IreHurtado/rag-fastapi)** – Sistema de recuperación aumentada con FastAPI y OpenAI.  
 - **[Chatbot IA](https://github.com/IreHurtado/chatbot-ia)** – Chatbot en Django con OpenAI API y despliegue en Render.  
 - **[Portafolio Web](https://iredev.es)** – Mi portafolio personal, desplegado con Django y Bootstrap.  
 
@@ -49,19 +50,6 @@
 - 📚 Aprendiendo más sobre **IA aplicada** para proyectos reales.  
 - 🔌 Profundizando en **integración de APIs** y **sistemas escalables**.  
 - ☁️ Explorando **automatizaciones con Python** y soluciones en la nube.  
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IreHurtado&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IreHurtado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF69B4" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreHurtado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2" height="165"/>
-</p>
 
 ---
 
@@ -78,15 +66,4 @@
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/IreHurtado">
-    <img src="https://img.shields.io/badge/💻%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-✨ _"La tecnología es la herramienta, la creatividad es el motor."_  
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-</div>
+    <img src="ht
